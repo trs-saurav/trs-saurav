@@ -41,8 +41,8 @@ I’m currently deep-diving into **Data Structures & Algorithms**. You can often
 
 ### 📫 Let's Connect!
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](your-linkedin-link-here)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](your-instagram-link-here)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](linkedin.com/saurav0010)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](instagram.com/trs-saurav)
 
 ---
 
