@@ -10,9 +10,10 @@ I’m a student at **SRM University** currently sharpening my problem-solving sk
 
 | Domain | Tools & Languages |
 | :--- | :--- |
-| **Languages** | `C++`, `Python`, `JavaScript`, `TypeScript` |
+| **Languages** | `C++`, `Python`, `JavaScript`, `TypeScript` ,`JAVA`|
 | **Frontend** | `Next.js`, `React`, `Tailwind CSS`, `HTML5/CSS3` |
 | **Backend** | `Node.js`, `Express`, `Python` |
+| **AI/ML** | `PYTORCH`, `SKLEARN`, `XGBOOST` |
 | **Tools** | `Git`, `GitHub`, `VS Code`, `NVIDIA RTX Tech` |
 
 ---
